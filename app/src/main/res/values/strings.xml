@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smash Bros Trivia</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="play">PLAY</string>
+    <string name="question_mark">Question Mark</string>
+    <string name="smash_bros_trivia">Smash Bros Trivia</string>
+    <string name="game_controller">Game controller</string>
+    <string name="submit">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="new_game">New Game</string>
+    <string name="try_again">Try Again</string>
+    <string name="green_checkmark">Green Checkmark</string>
+    <string name="smash_bros_trivia_question">Smash Bros Trivia (%1$d/%2$d)</string>
+    <string name="about_app_text">
+        Test your knowledge of Super Smash Brothers and your favorite characters by completing this trivia quiz. Answer from a list of random questions and see how well you truly know the game.
+    </string>
+    <string name="information">Information</string>
+    <string name="created_by_DPG">Created by Daniel Perez-Gomez</string>
+    <string name="about">About</string>
+    <string name="share_message">I just scored a %1$d out of %2$d on Super Smash Bros Trivia 😀🏆</string>
+    <string name="share">Share</string>
+    <string name="super_smash_brothers_trivia">Super Smash Brothers Trivia</string>
+    <string name="about_trivia">About Smash Bros Trivia</string>
+    <string name="smash_trivia">Smash Bros Trivia</string>
+    <string name="game_rules">Select an answer from the choices listed. If you answer correctly you advance to the next round for a total of three rounds. However, be careful! If you answer wrong, you automatically lose the game and have to start over. Enjoy!</string>
+    <string name="rules">Rules</string>
+    <string name="super_smash_bros">Super Smash Brothers</string>
+</resources>
